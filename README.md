@@ -44,4 +44,6 @@ The Queries we performed is saved in a file and linked below.
 
 
 Done A Good Visualising using Microsoft Word and The file is Finally linked below.
-[]
+
+
+[final_report](https://github.com/Vara9/credit_card_approval/blob/main/ml%20project1/Credit_Card_%20Report.docx)
