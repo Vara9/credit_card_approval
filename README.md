@@ -44,6 +44,4 @@ The Queries we performed is saved in a file and linked below.
 
 
 Done A Good Visualising using Microsoft Word and The file is Finally linked below.
-
-
-....
+[]
