@@ -4,8 +4,7 @@ Analysing Credit Card Dataset
 The project deals with predicting values based on classification algorithm which can found based on problem statement and target variable
 
 The datasets of the project is linked below
-[credit_card_dataset](![image](https://github.com/Vara9/credit_card_approval/assets/125298430/7a63711e-0216-4c7e-a567-bc991bbf45cd)
-)
+[credit_card_dataset](https://github.com/Vara9/credit_card_approval/blob/main/ml%20project1/Credit_card.csv)
 
 The main aim of the Project was to perform Exploratory Data Analysis and Perform cleaning and perform predictions from the Credit Card Dataset.
 
